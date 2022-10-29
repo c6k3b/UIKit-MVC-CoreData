@@ -1,1 +1,1 @@
-# UIKit-MVC-CoreData
+# UIKit MVC CoreData basic implementation
